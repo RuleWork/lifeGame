@@ -65,7 +65,7 @@
 
  
 
-8.使用BeautyEye实现Swing界面的美化
+ 8.使用BeautyEye实现Swing界面的美化
 
  
 
